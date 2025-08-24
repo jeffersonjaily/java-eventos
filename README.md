@@ -41,6 +41,7 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
+<<<<<<< HEAD
     git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
     ```
     *(Substitua pela URL do seu repositório)*
@@ -48,6 +49,14 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 2.  **Navegue até a pasta `src` do projeto:**
     ```bash
     cd seu-repositorio/src
+=======
+    git clone [https://github.com/jeffersonjaily/java-eventos.git](https://github.com/jeffersonjaily/java-eventos.git)
+    ```
+
+2.  **Navegue até a pasta `src` do projeto:**
+    ```bash
+    cd java-eventos/src
+>>>>>>> ffce1247d790f732728220d948c34e67f7f973e9
     ```
 
 3.  **Compile todos os arquivos Java:**
@@ -70,4 +79,8 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 4.  Na tela de login, insira o ID que você anotou e clique em **"Entrar"**.
 5.  A tela principal será aberta, e você poderá cadastrar e interagir com os eventos.
 
+<<<<<<< HEAD
 ---
+=======
+---
+>>>>>>> ffce1247d790f732728220d948c34e67f7f973e9
