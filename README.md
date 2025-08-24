@@ -41,13 +41,12 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 
 1.  **Clone o repositório:**
     ```bash
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
+    git clone [https://github.com/jeffersonjaily/java-eventos.git](https://github.com/jeffersonjaily/java-eventos.git)
     ```
-    *(Substitua pela URL do seu repositório)*
 
 2.  **Navegue até a pasta `src` do projeto:**
     ```bash
-    cd seu-repositorio/src
+    cd java-eventos/src
     ```
 
 3.  **Compile todos os arquivos Java:**
