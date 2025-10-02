@@ -37,39 +37,6 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 -   [JDK (Java Development Kit)](https://www.oracle.com/java/technologies/downloads/) - Versão 17 ou superior.
 -   [Git](https://git-scm.com/downloads)
 
-### Passo a Passo
-
-1.  **Clone o repositório:**
-    ```bash
-<<<<<<< HEAD
-    git clone [https://github.com/seu-usuario/seu-repositorio.git](https://github.com/seu-usuario/seu-repositorio.git)
-    ```
-    *(Substitua pela URL do seu repositório)*
-
-2.  **Navegue até a pasta `src` do projeto:**
-    ```bash
-    cd seu-repositorio/src
-=======
-    git clone [https://github.com/jeffersonjaily/java-eventos.git](https://github.com/jeffersonjaily/java-eventos.git)
-    ```
-
-2.  **Navegue até a pasta `src` do projeto:**
-    ```bash
-    cd java-eventos/src
->>>>>>> ffce1247d790f732728220d948c34e67f7f973e9
-    ```
-
-3.  **Compile todos os arquivos Java:**
-    (Este comando compila todos os arquivos, especificando a codificação correta para os acentos)
-    ```bash
-    javac -encoding UTF-8 com/eventofacil/model/*.java com/eventofacil/service/*.java com/eventofacil/*.java
-    ```
-
-4.  **Execute a aplicação:**
-    (O ponto de entrada da interface gráfica é a classe `AppGUI`)
-    ```bash
-    java com.eventofacil.AppGUI
-    ```
 
 ## 📖 Como Usar
 
