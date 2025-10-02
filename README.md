@@ -45,9 +45,3 @@ Antes de começar, você vai precisar ter instalado em sua máquina:
 3.  Preencha seu nome e e-mail nas caixas de diálogo. Uma mensagem de sucesso mostrará seu **ID único**. Anote este número.
 4.  Na tela de login, insira o ID que você anotou e clique em **"Entrar"**.
 5.  A tela principal será aberta, e você poderá cadastrar e interagir com os eventos.
-
-<<<<<<< HEAD
----
-=======
----
->>>>>>> ffce1247d790f732728220d948c34e67f7f973e9
